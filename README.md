@@ -65,11 +65,15 @@ ___
 
 ![alt text](screenshot2.png "вывода hostname http://192.168.49.2:31317/api/v1/status")​
 
-* **Скриншоты графического интерфейса c изображением под:**
-* 
+
+
+* **Скриншоты графического интерфейса c изображением под:
+
 ![alt text](screenshot3.png "Графический интерфейс Dashboard 1")​
 
 ![alt text](screenshot4.png "Графический интерфейс Dashboard 2")​
 
+
+* **Видео с обзором созданного кластера**
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://drive.google.com/file/d/1GKdWywpN_cdpP8SdQ3qrlk_8fbYZC8e2/view?usp=sharing)
