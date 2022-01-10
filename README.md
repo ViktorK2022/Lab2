@@ -61,5 +61,13 @@ ___
            
 * **Скриншты вывода команды `kubectl get po` в консоли:**
 
+![alt text](screenshot1.png "вывода команды kubectl get po")​
+
+![alt text](screenshot2.png "вывода hostname http://192.168.49.2:31317/api/v1/status")​
+
 * **Скриншоты графического интерфейса c изображением под:**
+* 
+![alt text](screenshot3.png "Графический интерфейс Dashboard 1")​
+
+![alt text](screenshot4.png "Графический интерфейс Dashboard 2")​
 
